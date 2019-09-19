@@ -28,10 +28,5 @@ public class Pet{
 	public int getAge(){
 		return age;
 	}
-	public static void main(String [] args){
-		Pet harry = new Pet();
-		harry.setName("paul");
-		System.out.println(harry.getName());
-	}
 
 }
