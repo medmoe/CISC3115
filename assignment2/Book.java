@@ -43,11 +43,4 @@ public class Book {
 	public int getCopiesSold(){
 		return copiesSold;
 	}
-
-	public static void main (String [] args){
-		Book b1 = new Book("the linux Command line", "Mohammed", "Crash library", 345);
-		System.out.printf("%s%n%s%n%s%n%d%n", b1.getTitle(), b1.getAuthor(), b1.getPublisher(), b1.getCopiesSold());
-	}
-
-
 }
