@@ -1,4 +1,4 @@
-
+//author: Mohammed Bekhouche 
 class Fruit {
 	private String name;
 	private String taste;

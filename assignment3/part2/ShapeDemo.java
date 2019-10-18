@@ -1,3 +1,4 @@
+//Author : Mohammed Bekhouche
 class Shape {
 
 	public void draw(){
