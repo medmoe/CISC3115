@@ -19,10 +19,6 @@ import javafx.event.*;
 import javafx.scene.paint.Color;
 import java.util.*;
 
-/**
- *
- * @author Mo & Jenny
- */
 public class LabWork3 extends Application {
 
     public static void main(String[] args) {
